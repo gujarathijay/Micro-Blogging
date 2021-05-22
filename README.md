@@ -1,8 +1,5 @@
 # Microblogging
 
-#project-given-by:
-Aditya Dinagare
-
-#Co-Creators:
+#Creators:
 Saurabh Deshpande,
 Jay Gujarathi
